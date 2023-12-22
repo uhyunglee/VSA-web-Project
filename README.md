@@ -1,7 +1,7 @@
 # VSA-web-Project
 ## React - Express 
-npm run build
-node server.js
+- npm run build
+- node server.js
 
 ### Login
 아이디 - 비밀번호 입력
