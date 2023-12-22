@@ -1,8 +1,8 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # 추가된내용-----------------
-lib/db.js
-lib/sessionOption.js
+/lib/db.js
+/lib/sessionOption.js
 # -----------------
 
 # dependencies
